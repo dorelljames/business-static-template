@@ -3,7 +3,7 @@ title: Parsing An XML Document
 banner: /img/article1.jpg
 shortdesc: Here is some more information about this product that is only revealed once clicked on.
 cmsUserSlug: parsing-an-xml-document
-date: 2016-04-03
+date: 2016-04-03T00:00:00.000Z
 categories: technology
 ---
 
@@ -21,4 +21,4 @@ Finn then wakes from his trance and throws more guardian blood onto The Lich, re
 
 Jake tells Finn to let it go, calling Martin a loser but Finn refuses and the [Grass Sword](http://adventuretime.wikia.com/wiki/Grass_Sword) takes over Finn's right arm, allowing him one last tremendous pull. Martin grosses out at this and asks the void caster to enlarge the void. This causes much pressure on Finn's hand and at last, Finn's arm gives out and is severed from his body, while Martin states "Wait, what about air—" right before escaping through the portal. Finn falls into the water below where a small piece of Guardian blood touches his arm, making the stump of an arm sprout a flower. Jake pulls Finn to shore where [Shelby](http://adventuretime.wikia.com/wiki/Shelby) is revealed to have been hiding out the entire time. Shelby then sits on Finn's lap while crying. Finn is reminded of the Lich and asks Jake if he finished him off. Jake says there's no need, as the Guardian blood transformed the Lich into a baby-like creature, who is seemingly cute and harmless. Finn, Jake, Shelby, and the infant Lich return to the Candy Kingdom by way of the portal that Starchie drove through during the battle.
 
-Later, [Tree Trunks](http://adventuretime.wikia.com/wiki/Tree_Trunks_(character)) and [Mr. Pig](http://adventuretime.wikia.com/wiki/Mr._Pig) are sitting in her house when outside Finn and Jake's chatter can be heard. The doorbell rings, interrupting a somber Tree Trunks saying, "I think we should get a d—." The couple sees outside their door an infant Lich in a stereotypical abandoned-baby basket. Tree Trunks looks excited and implies that this sudden addition to their family has changed her feeling about whatever she was about to say. The infant Lich suddenly says, "Hello!"
+Later, [Tree Trunks](http://adventuretime.wikia.com/wiki/Tree_Trunks_(character)) and [Mr. Pig](http://adventuretime.wikia.com/wiki/Mr._Pig) are sitting in her house when outside Finn and Jake's chatter can be heard. The doorbell rings, interrupting a somber Tree Trunks saying, "I think we should get a d—." The couple sees outside their door an infant Lich in a stereotypical abandoned-baby basket. Tree Trunks looks excited and implies that this sudden addition to their family has changed her feeling about whatever she was about to say. The infant Lich suddenly says, "Hello!". Hello repo.
