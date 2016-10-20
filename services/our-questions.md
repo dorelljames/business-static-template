@@ -1,8 +1,8 @@
 ---
 title: Our Questions
 banner: /img/macbook-pro.png
-shortdesc: "Our questions to the latest answers."
-cmsUserSlug: our-questions
+shortdesc: Our questions to the latest answers.
+cmsUserSlug: our-questions-here
 date: 2016-08-12T10:33:00.000Z
 categories: ""
 ---
