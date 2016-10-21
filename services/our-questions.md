@@ -2,7 +2,7 @@
 titles: Our Questions
 banners: /img/macbook-pro.png
 shortdescs: Our questions to the latest answers.
-udpatedDates: 2016-10-21T03:34:55.916Z
+udpatedDate: 2016-10-21T03:34:55.916Z
 cmsUserSlugf: our-questions-here
 datef: 2016-08-12T10:33:00.000Z
 categoriess: ""
