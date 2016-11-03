@@ -2,7 +2,7 @@
 title: Working With JSON
 banner: /img/article3.jpg
 shortdesc: Here is some more information about this product that is only revealed once clicked on.
-updatedDate: 2016-11-03T05:23:23.101Z
+updatedDate: 2016-11-03T05:24:26.066Z
 cmsUserSlug: working-with-json
 date: 2016-04-06T00:00:00.000Z
 categories: technology food
