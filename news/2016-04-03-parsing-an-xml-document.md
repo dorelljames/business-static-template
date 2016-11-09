@@ -2,7 +2,7 @@
 title: Parsing An XML Document
 banner: /img/article1.jpg
 shortdesc: Here is some more information about this product that is only revealed once clicked on.
-updatedDate: 2016-11-09T07:25:08.346Z
+updatedDate: 2016-11-09T07:25:30.150Z
 cmsUserSlug: parsing-an-xml-document
 date: 2016-04-03T00:00:00.000Z
 categories: technology
