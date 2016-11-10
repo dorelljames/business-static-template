@@ -1,11 +1,11 @@
 ---
-title: sgadgdas
+title: draft content ni
 banner: /img/13626954_566745386831008_6014529837038286129_n.jpg
 shortdesc: gagagdsg
-updatedDate: 2016-11-10T03:19:29.905Z
+updatedDate: 2016-11-10T08:06:10.385Z
 cmsUserSlug: ""
 date: 2016-11-09T16:00:00.000Z
 categories: null
 ---
 
-asdhgdshdhah
+draft
