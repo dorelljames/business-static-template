@@ -2,7 +2,7 @@
 title: Materialize
 banner: /img/article2.jpg
 shortdesc: Here is some more information about this product that is only revealed once clicked on.
-updatedDate: 2016-11-08T05:49:10.972Z
+updatedDate: 2016-12-07T05:17:48.222Z
 cmsUserSlug: materialize
 date: 2016-04-06T00:00:00.000Z
 categories: technology food
