@@ -1,8 +1,8 @@
 ---
 title: dsagadsgdsag
 banner: /img/sdfdf.jpg
-shortdesc: Here is some more information about this product that is only revealed once clicked on.
-updatedDate: 2016-12-09T03:41:50.968Z
+shortdesc: asgagagagaga
+updatedDate: 2016-12-09T06:21:49.786Z
 cmsUserSlug: materialize
 date: 2016-04-06T00:00:00.000Z
 categories: technology food
