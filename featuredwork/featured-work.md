@@ -2,7 +2,7 @@
 title: Featured Work
 banner: /img/iphone.png
 shortdesc: sadgdsagasdgdsag
-updatedDate: 2016-12-09T03:05:48.229Z
+updatedDate: 2016-12-09T03:13:55.940Z
 cmsUserSlug: our-services
 date: 2016-08-12T10:33:00.000Z
 categories: ""
