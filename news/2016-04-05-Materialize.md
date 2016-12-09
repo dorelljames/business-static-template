@@ -2,7 +2,7 @@
 title: dsagadsgdsag
 banner: /img/sdfdf.jpg
 shortdesc: asgagagagaga
-updatedDate: 2016-12-09T06:21:49.786Z
+updatedDate: 1969-12-31T16:00:00.000Z
 cmsUserSlug: materialize
 date: 2016-04-06T00:00:00.000Z
 categories: technology food
