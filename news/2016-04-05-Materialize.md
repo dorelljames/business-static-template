@@ -1,8 +1,8 @@
 ---
 title: Materialize
-banner: /img/article2.jpg
+banner: /img/sdfdf.jpg
 shortdesc: Here is some more information about this product that is only revealed once clicked on.
-updatedDate: 2016-12-07T09:07:45.824Z
+updatedDate: 2016-12-09T03:06:08.203Z
 cmsUserSlug: materialize
 date: 2016-04-06T00:00:00.000Z
 categories: technology food
