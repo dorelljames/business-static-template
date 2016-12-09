@@ -2,7 +2,7 @@
 title: Materialize
 banner: /img/sdfdf.jpg
 shortdesc: Here is some more information about this product that is only revealed once clicked on.
-updatedDate: 2016-12-09T03:06:08.203Z
+updatedDate: 2016-12-09T03:13:10.998Z
 cmsUserSlug: materialize
 date: 2016-04-06T00:00:00.000Z
 categories: technology food
