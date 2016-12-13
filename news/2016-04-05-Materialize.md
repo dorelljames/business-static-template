@@ -1,8 +1,8 @@
 ---
-title: Materializeff
+title: Materializeasdfdsafds
 banner: /img/article2.jpg
 shortdesc: Here is some more information about this product that is only revealed once clicked on.
-updatedDate: 2016-12-13T06:36:44.746Z
+updatedDate: 2016-12-13T06:44:28.976Z
 cmsUserSlug: materialize
 date: 2016-04-06T00:00:00.000Z
 categories: technology food
