@@ -1,8 +1,8 @@
 ---
-title: Parsing An XML Document
+title: adsgdas
 banner: /img/bea.jpg
-shortdesc: Here is some more information about this product that is only revealed once clicked on.
-updatedDate: 2016-12-13T07:10:13.528Z
+shortdesc: sdga
+updatedDate: 2016-12-14T02:31:52.389Z
 cmsUserSlug: parsing-an-xml-document
 date: 2016-04-03T00:00:00.000Z
 categories: technology
