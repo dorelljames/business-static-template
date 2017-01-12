@@ -2,8 +2,8 @@
 title: Our Services
 banner: /img/macbook-pro.png
 shortdesc: "Finn and Jake follow the Lich to the Citadel, where Finn meets his long lost dad."
+updatedDate: 2017-01-12T05:42:24.578Z
 cmsUserSlug: our-services
-updatedDate: 2016-12-09T07:02:08.895Z
 date: 2016-08-12T10:33:00.000Z
 categories: ""
 ---
