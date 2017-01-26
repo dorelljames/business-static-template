@@ -53,6 +53,28 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: "Image", name: "image", widget: "image", media_folder: "assets/img"}
               - {label: "Name", name: "name", widget: "string"}
+              
+  - name: "services2"
+    label: "Local Columns"
+    files:
+      - name: "localcolumns"
+        label: "Local Columns"
+        file: "data/localcolumns.json"
+        description: "Add local columns entries here"
+        fields:
+          - label: "Local Columns"
+            name: "localcolumns"
+            widget: "list"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Publish Date", name: "date", widget: "datetime"}
+              - {label: "Main Image", name: "mainimage", widget: "image", media_folder: "assets/localcolumns"}
+              - {label: "Thumbnail", name: "thumbnail", widget: "image", media_folder: "assets/localcolumns"}
+              - {label: "Category", name: "category", widget: "string"}
+              - {label: "Shortdesc", name: "shortdesc", widget: "string"}
+              - {label: "Post Body", name: "postbody", widget: "markdown"}
+              
+              
   - name: "services" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Services"  # Used in the UI, ie.: "New Post"
     folder: "services" # The path to the folder where the documents are stored
