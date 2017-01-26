@@ -66,13 +66,13 @@ collections: # A list of collections the CMS should be able to edit
             name: "localcolumns"
             widget: "list"
             fields:
-              - {label: "Title", name: "title", widget: "string"}
-              - {label: "Publish Date", name: "date", widget: "datetime"}
-              - {label: "Main Image", name: "mainimage", widget: "image", media_folder: "assets/localcolumns"}
-              - {label: "Thumbnail", name: "thumbnail", widget: "image", media_folder: "assets/localcolumns"}
-              - {label: "Category", name: "category", widget: "string"}
+              - {label: "Title", name: "title2", widget: "string"}
+              - {label: "Publish Date", name: "date2", widget: "datetime"}
+              - {label: "Main Image", name: "mainimage2", widget: "image", media_folder: "assets/localcolumns"}
+              - {label: "Thumbnail", name: "thumbnail2", widget: "image", media_folder: "assets/localcolumns"}
+              - {label: "Category", name: "category2", widget: "string"}
               - {label: "Shortdesc", name: "shortdesc2", widget: "string"}
-              - {label: "Post Body", name: "postbody", widget: "markdown"}
+              - {label: "Post Body", name: "postbody2", widget: "markdown"}
               
               
   - name: "services" # Used in routes, ie.: /admin/collections/:slug/edit
