@@ -71,7 +71,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "Main Image", name: "mainimage", widget: "image", media_folder: "assets/localcolumns"}
               - {label: "Thumbnail", name: "thumbnail", widget: "image", media_folder: "assets/localcolumns"}
               - {label: "Category", name: "category", widget: "string"}
-              - {label: "Shortdesc", name: "shortdesc", widget: "string"}
+              - {label: "Shortdesc", name: "shortdesc2", widget: "string"}
               - {label: "Post Body", name: "postbody", widget: "markdown"}
               
               
