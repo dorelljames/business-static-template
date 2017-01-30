@@ -1,8 +1,8 @@
 ---
 title: Bea Alonzo
-banner: /img/1464784294_20_eb8fb870e248df524b2c205933664c6f.jpg
+banner: /img/1471617088_20_f3cf72204da2ff3b7582f1a43297c81f.jpg
 shortdesc: I Guess
-updatedDate: 2017-01-30T08:21:30.560Z
+updatedDate: 2017-01-30T08:31:47.735Z
 cmsUserSlug: ""
 date: 2017-01-04T16:00:00.000Z
 categories: null
