@@ -1,11 +1,11 @@
 ---
-title: Bea Alonzos
-banner: /img/1471617088_20_f3cf72204da2ff3b7582f1a43297c81f.jpg
-shortdesc: I Guess
-updatedDate: 2017-02-02T07:05:31.395Z
-cmsUserSlug: basgd
-date: 2017-01-04T16:00:00.000Z
-categories: null
+title: "I am a new news!"
+banner: /img/1472120836_20_4382a1eb94f5a256cc57a24797092a0c.jpg
+shortdesc: Here is some more info about the news.
+updatedDate: 2017-02-02T07:08:15.860Z
+cmsUserSlug: get-your-rating-widget-now
+date: 2016-04-06T00:00:00.000Z
+categories: technology food
 ---
 
-asdgdasg
+New news!
