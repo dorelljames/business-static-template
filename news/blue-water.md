@@ -2,9 +2,9 @@
 title: Blue Water
 banner: /img/1471617088_20_f3cf72204da2ff3b7582f1a43297c81f.jpg
 shortdesc: Gasdgasdg
-updatedDate: 2017-02-02T07:50:15.035Z
+updatedDate: 2017-02-02T07:51:09.563Z
 cmsUserSlug: ""
-date: 2017-02-02T00:00:00+08:00
+date: 2017-02-01T16:00:00.000Z
 categories: null
 ---
 
