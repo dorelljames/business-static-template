@@ -14,6 +14,7 @@ public_folder: "assets"
 collections: # A list of collections the CMS should be able to edit
   - name: "sitedata"
     label: "Site Information"
+    create: false
     files:
       - name: "sitedata"
         label: "Site Information"
