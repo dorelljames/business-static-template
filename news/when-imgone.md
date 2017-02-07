@@ -1,6 +1,6 @@
 ---
 title: 'Sample Markdown'
-date: '2017-02-06T05:58:51.638Z'
+date: 'January 02, 2017 5:00 PM'
 shortdesc: 'Here is some more information about this product that is only revealed once clicked on.'
 banner: /img/article3.jpg
 categories: 'technology food'
